@@ -71,6 +71,7 @@
 ``````
 
 ### 1-20: Basic If-Else Statements :
+````
 1.Check whether a number is positive or negative.
 2.Check whether a number is even or odd.
 3.Check whether a number is divisible by 3 and 5.
@@ -92,7 +93,11 @@
 19.Check whether a string is a palindrome.
 20.Check if a string is an anagram of another string. 
 
+````
+
+
 ### 21-40: Nested If-Else Statements
+````
 21.Check whether a number is a prime number within a range.
 22.Find the largest number among n numbers using a nested if-else.
 23.Print all prime numbers in a range using nested loops.
@@ -113,8 +118,10 @@
 38.Check if a given date is valid or invalid.
 39.Find the day of the week for a given date.
 40.Print multiplication tables for a given number using nested loops.
+``````
 
 #### 41-80: Switch Case Statements
+````
 41.Implement a simple calculator using switch case.
 42.Convert a number to its word equivalent (1 to 10) using switch.
 43.Find the day of the week using switch statement.
@@ -155,9 +162,10 @@
 78.Calculate the average of an array using a for loop.
 79.Print a number pattern using for loop.
 80.Print Pascal’s triangle using nested for loops.
-
+````
 
 ### Common Programs in array concepts  :
+````
 1.Sum of elements 
 2.Find minimum and maximum elements in array
 3.Reverse an array
@@ -197,8 +205,10 @@
 37.Merge Sorted Arrays with Two Pointers
 38.Find the Triplets that sum up to zero in an array
 39.Find the middle element of a linked list (or array) using two pointers
+````
 
 #### Dynamic Programming :
+````
 40.0/1 Knapsack Problem
 41.Minimum Cost Path
 42.Coin Change Problem
@@ -207,16 +217,18 @@
 45.Subset Sum Problem
 46.Palindrome Partitioning
 47.Count of subsets with sum equal to a given sum
-
+````
 
 ## Matrix-based Array Questions
+````
 48.Spiral Matrix Traversal
 49.Rotate a Matrix 90 degrees
 50.Check if a matrix is a magic square
 51.Set matrix elements to zero if any element is zero
 52.Search in a 2D matrix
-
+````
 ### Bit Manipulation with Arrays
+````
 53.Find the only non-repeating element in an array
 54.Count the number of 1's in the binary representation of a number
 55.Check if a number is a power of two
@@ -224,8 +236,10 @@
 57.Find the missing number in an array of 1 to N
 58.Subsets of an array (Generate all subsets using bitwise operations)
 59.Find the XOR of all elements in the array
+````
 
 #### Singly Linked List Programs :
+````
     1.Remove Duplicates from singly Linked List 
     2.Find the N-th Node from the end of the list 
     3.Merge two sorted Linked Lists 
@@ -236,10 +250,11 @@
     8.Check if a linked list is palindrome 
     9.Remove all the occurences of a given elemetn
    10.Kth to last element of a linked list
-
+````
 
 
 ### Doubly Linked List programs  :
+````
     1.Reverse a Doubly Linked List 
     2.Merge two sorted Doubly Linked List 
     3.Detect a cycle in doubly Linked list 
@@ -251,8 +266,11 @@
     9.Check if doubly linked list is palindrome 
    10.Add two numbers Represented by Doubly Linked List 
    11.Find the Nth Node from the end of a doubly Linked list
+````
 
 ### Circular LinkedList programs :
+
+````
     1.	Find the length of a circular Linked List 
     2.  Delete the last node in circular linked list 
     3.  Reverse a CLL
@@ -267,10 +285,11 @@
    12.  Find the Nth Node from the end of CLL 
    13.  Add two CLL Representing Numbers
 
-
+````
 
 
 ### Leetcode questions :
+````
 1.Two sum 
 4.Median of Two Sorted Arrays
 11.Container with most water 
@@ -328,7 +347,7 @@
 139.Word Break 
 140.Word Break II
 149.Max Points on a Line
-
+````
 
 
 
