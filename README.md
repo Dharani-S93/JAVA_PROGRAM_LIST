@@ -352,6 +352,7 @@
 
 
 ### Basic questions  - Leet code 
+````
 1.	Palindrome Number (LC 9)
 2.	[Roman to Integer (LC 13)]
 3.	[FizzBuzz (LC 412)]
@@ -366,9 +367,10 @@
 12.	[Jump Game II (LC 45)]
 13.	Multiply Strings (LC 43)]
 14.	[Longest Substring Without Repeating Characters (LC 3)]
-
+````
     
 ### Stack : ( Priority for interview )
+````
 1.Reverse a stack  
 2.Delete middle element from a stack 
 3.implement two stacks in an array
@@ -378,7 +380,10 @@
 7. Next smaller Element 
 Leetcode questions total -> stack - 167 questions, Easy - 23, Medium - 93, Hard - 51
 
+````
+
 ## Queue :  ( Priority for interview )
+````
 1.Implement a queue using stacks 
 2.Reverse First K Elements of Queue 
 3.First Non-Repating character in stream of characters
@@ -386,8 +391,9 @@ Leetcode questions total -> stack - 167 questions, Easy - 23, Medium - 93, Hard 
 5.Interleaving two queues 
 6.Check for balanced paratheses using queue 
 Leetcode questions total -> Queue - 47 Questions , Easy - 7, Medium - 20, Hard â€“ 20
-
+````
 ### IMPORTANT QUESTIONS
+````
 1.	Find the Maximum and Minimum element in array
 2.	Reverse an array
 3.	Reverse an string 
@@ -411,3 +417,4 @@ Leetcode questions total -> Queue - 47 Questions , Easy - 7, Medium - 20, Hard â
 21.	Print a hollow square pattern using nested loops
 22.	Convert a time duration in minutes to hours and minutes.
 23.	Solve a quadratic equation using switch-case for the discriminant
+````
