@@ -50,6 +50,8 @@
 47. Is java support pointers ?
 
 ````
+
+
 ### Basic Programs - Control Statements 
 ````
 01.Simple If Statement - Check if a number is positive.
@@ -188,8 +190,9 @@
 100.Find the sum of even and odd digits of a number.
 ````
 
+
 ### 101-120: Do-While Loop Programs
-``````
+````
 101.Print numbers from 1 to 10 using do-while loop.
 102.Sum of all even numbers using do-while loop.
 103.Print all odd numbers in a range using do-while loop.
@@ -209,11 +212,11 @@
 117.Print the Fibonacci sequence up to a given limit using do-while.
 118.Check if a number is a perfect number using do-while loop.
 119.Find the Armstrong number in a range using do-while loop.
-120.Create a menu-driven program using a do-while loop.
-
+120.Create a menu-driven program using a do-while loop.
 ````
 
-### Common Programs in array concepts  :
+
+ ### Common Programs in array concepts  :
 
 ````
 1.Sum of elements 
