@@ -216,6 +216,103 @@
 ````
 
 
+
+### 121-140: Nested Loops
+````
+
+121.Print a multiplication table using nested loops.
+122.Print an inverted triangle pattern using nested loops.
+123.Print a pyramid pattern using nested loops.
+124.Print a diamond shape pattern using nested loops.
+125.Print a hollow square pattern using nested loops.
+126.Print a number triangle using nested loops.
+127.Check for prime numbers within a range using nested loops.
+128.Generate Pascal's Triangle using nested loops.
+129.Print a number pattern with asterisks using nested loops.
+130.Print all possible combinations of two arrays using nested loops.
+131.Create a matrix and perform operations like transpose using nested loops.
+132.Count the number of vowels and consonants in a string using nested loops.
+133.Create a multiplication matrix using nested loops.
+134.Print an alphabet pattern using nested loops.
+135.Find all prime numbers between two numbers using nested loops.
+136.Create a 2D array and initialize it with user input using nested loops.
+137.Find the diagonal elements of a matrix using nested loops.
+138.Create a number grid using nested loops.
+139.Create a star pattern like a Christmas tree using nested loops.
+140.Perform matrix addition using nested loops.
+
+141-160: Other Complex Control Flow Statements
+
+141.Print a Fibonacci sequence using a recursive function.
+142.Implement a switch case that calculates tax based on income.
+143.Use a loop to generate prime numbers in a given range.
+144.Implement an input validation program with a loop.
+145.Check if a number is an Armstrong number recursively.
+146.Implement binary search in a sorted array.
+147.Implement linear search for a number in an array.
+148.Find the largest number using a method and return the result.
+149.Count the occurrence of each character in a string.
+150.Perform matrix multiplication using nested loops.
+151.Implement a stack data structure using control flow statements.
+152.Implement a queue using loops and conditional statements.
+153.Create a simple bank account with multiple operations.
+154.Implement a simple ticket reservation system.
+155.Write a program to calculate power using recursion.
+156.Implement recursive factorial calculation.
+157.Implement recursive Fibonacci sequence.
+158.Create a number guessing game with loops and conditions.
+159.Print a checkerboard pattern using nested loops.
+160.Implement a vending machine system using switch statements.
+
+
+161-180: Advanced Control Flow Programs
+
+161.Create a simple text-based game using if-else and loops.
+162 .Build a password validation program with loops and conditions.
+163.Implement a Tic-Tac-Toe game using loops and conditions.
+164.Implement a simple file I/O program.
+165.Create a phonebook program with search functionality.
+166.Implement a ticket booking system with class and objects.
+167.Create a random number generator for a guessing game.
+168 .Build a simple calendar program using loops.
+169.Create a program that checks for valid email addresses.
+170 .Build a number encryption/decryption program.
+171.Create a weather app interface using control statements.
+172.Write a program for bubble sort.
+173.Implement insertion sort using loops.
+174.Perform quicksort on an array using recursion.
+175.Implement selection sort with a loop.
+176.Perform a binary search recursively.
+177.Create a class to manage a simple bank account.
+178.Write a program for linear search recursively.
+179.Implement depth-first search using a stack.
+180.Implement breadth-first search using a queue.
+
+181-200: Miscellaneous Advanced Programs
+
+181.Create a calculator that supports multiple operations (addition, subtraction, etc.).
+182.Implement a Fibonacci series generator using memoization.
+183.Create a random password generator.
+184.Create a simple command-line chat application.
+185.Implement a quiz program that uses arrays.
+186.Create a program to count words in a sentence.
+187.Implement string compression (e.g., "aaabbb" -> "a3b3").
+188.Create a program to generate the first N prime numbers.
+189.Create an interactive program to show user details.
+190 .Build a basic database system with file operations.
+191.Implement a voting system using classes and loops.
+192.Create a program to convert numbers to words.
+193 .Build a simple bank account system with balance checking.
+194.Create a dynamic menu-driven program using loops.
+195.Implement a Tic-Tac-Toe game with a simple AI.
+196. Build a currency converter program.
+197.Create a program to count the frequency of words in a sentence.
+198.Write a program to find the longest word in a string.
+199.Create a simple ATM simulation with deposit/withdraw functions.
+200.Write a program to manage student records.
+
+`````
+
  ### Common Programs in array concepts  :
 
 ````
