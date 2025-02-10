@@ -240,9 +240,9 @@
 138.Create a number grid using nested loops.
 139.Create a star pattern like a Christmas tree using nested loops.
 140.Perform matrix addition using nested loops.
-
-141-160: Other Complex Control Flow Statements
-
+````
+### 141-160: Other Complex Control Flow Statements
+````
 141.Print a Fibonacci sequence using a recursive function.
 142.Implement a switch case that calculates tax based on income.
 143.Use a loop to generate prime numbers in a given range.
@@ -263,10 +263,10 @@
 158.Create a number guessing game with loops and conditions.
 159.Print a checkerboard pattern using nested loops.
 160.Implement a vending machine system using switch statements.
+````
 
-
-161-180: Advanced Control Flow Programs
-
+### 161-180: Advanced Control Flow Programs
+````
 161.Create a simple text-based game using if-else and loops.
 162 .Build a password validation program with loops and conditions.
 163.Implement a Tic-Tac-Toe game using loops and conditions.
@@ -287,9 +287,9 @@
 178.Write a program for linear search recursively.
 179.Implement depth-first search using a stack.
 180.Implement breadth-first search using a queue.
-
-181-200: Miscellaneous Advanced Programs
-
+````
+## 181-200: Miscellaneous Advanced Programs
+````
 181.Create a calculator that supports multiple operations (addition, subtraction, etc.).
 182.Implement a Fibonacci series generator using memoization.
 183.Create a random password generator.
