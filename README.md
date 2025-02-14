@@ -791,3 +791,30 @@ Find if a binary search tree is a valid BST (inorder traversal check).
 Convert a binary search tree into a sorted doubly linked list.
 Find the diameter of a binary search tree.
 ````
+
+
+
+Detect a loop in a singly linked list.
+Reverse a singly linked list in groups of k nodes.
+Swap two nodes in a singly linked list.
+Delete a node at a given position in a doubly linked list.
+Find the union and intersection of two linked lists.
+Find the length of the longest increasing subsequence in a linked list.
+Equal check two singly linked list
+Implement a stack-based undo feature in a text editor.
+Find the number of days in a month using switch-case.
+Print all numbers divisible by 5 within a range using do-while.
+Reverse a string using while loop.
+Minimum insertions to form a palindrome
+Sum of right side element in java array
+Calculate the factorial of a number using do-while loop.
+Check if characters of a given string can be rearranged to form a palindrome
+Print a diamond shape pattern using nested loops.
+Build a simple calendar program using loops.
+Find the maximum difference between any two elements.
+Check if an array contains a specific element.
+Find the maximum sum subarray of size k.
+Sum of first K even-length Palindrome numbers
+Check if actual binary representation of a number is palindrome
+String - Left rotation
+Count of substrings of length K with exactly K distinct characters
