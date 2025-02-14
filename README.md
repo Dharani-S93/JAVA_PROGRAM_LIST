@@ -793,7 +793,7 @@ Find the diameter of a binary search tree.
 ````
 
 
-
+````
 Detect a loop in a singly linked list.
 Reverse a singly linked list in groups of k nodes.
 Swap two nodes in a singly linked list.
@@ -818,3 +818,4 @@ Sum of first K even-length Palindrome numbers
 Check if actual binary representation of a number is palindrome
 String - Left rotation
 Count of substrings of length K with exactly K distinct characters
+````
